@@ -1,6 +1,6 @@
 # Countdown Timer
 
-A small front-end countdown application built with HTML, CSS, and JavaScript. It displays the days, hours, minutes, and seconds remaining until a chosen date, while a progress bar shows how much time has elapsed.
+A small front-end countdown application built with HTML, CSS, and JavaScript. It displays the days, hours, minutes, and seconds remaining until a chosen date, while a progress bar shows that how much time has elapsed.
 
 ## Features
 
